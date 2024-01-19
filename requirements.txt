@@ -1,0 +1,12 @@
+accelerate
+gTTS
+numpy
+openai
+Pillow
+pyaudio
+pydub
+pygame
+PyQt5
+torch==2.1.2
+torchaudio
+speech_recognition
