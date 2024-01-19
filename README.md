@@ -20,7 +20,7 @@ It is recommended to set the API key in your environmental variables, and then g
 2. **Clone the Repository**: Clone this repository to your local machine.
 
     ```
-    git clone [repository URL]
+    git clone https://github.com/box-tech-ai/ui-voice-chatbot-gpt.git
     ```
 
 3. **Install Dependencies**: Install the required Python libraries.
